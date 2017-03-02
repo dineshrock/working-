@@ -6,12 +6,10 @@ celebrate
 haiii
 123
 456
+<<<<<<< HEAD
 789
-10 11 12
-13 14 15
-<<<<<<< Updated upstream
-19 20 21
-=======
-16 17 18
 
->>>>>>> Stashed changes
+=======
+10 11 12
+>>>>>>> refs/remotes/origin/master
+
